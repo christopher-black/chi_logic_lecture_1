@@ -3,7 +3,7 @@
 The goal of this lecture is to present a series of 'mini-challenges' to students. It gives them an opportunity to solve smaller
 scale problems in a series of small steps. The end result is a toy application that was built in steps.
 
-###Instructor Steps
+### Instructor Steps
 Look at the steps below. Read the step out loud. Give students 2-5 mins at each step to solve it on their own. Make sure
 to keep the room quiet for those who are concentrating on the step, but encourage people to ask questions. After people have
 a couple minutes for each step, ask the them who may have an answer. No matter what the solution, positively encourage whoever
