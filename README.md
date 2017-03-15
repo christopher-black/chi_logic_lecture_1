@@ -13,7 +13,7 @@ At the end of the steps, reinforce that the students were able to build an appli
 Wrap up with encouraging students to break down application challenges into small logical components. Test those components, 
 then move onto the next. 
 
-###Steps
+### Steps
 - Create a div with a 'container' class using jQuery.
 - Create a button inside the container Div. 
 - Console.log something when click the button.
