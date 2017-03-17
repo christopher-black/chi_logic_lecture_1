@@ -23,3 +23,8 @@ then move onto the next.
 - When clicking on the Sushi Div, delete that Div (and its contents) and console.log "Yum".
 - Create a 'Hunger' variable and set it equal to 100. Every time you delete a Sushi Div, subtract 5 hunger.
 - Make it so you can only eat Sushi if hunger is above zero.
+
+### Expansion Ideas
+- Create a 'Yum' feedback message on the DOM when a sushi is eaten.
+- Have that message start to fade out after two seconds.
+- Include an image of a sushi on the Sushi Divs.
